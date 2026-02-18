@@ -11,7 +11,7 @@ body {
 }
 
 .main-header {
-  height: 80vh;
+  height: 45vh;
   background: linear-gradient(
       rgba(0,0,0,0.6),
       rgba(0,0,0,0.6)
@@ -148,3 +148,4 @@ footer {
   transform: translateY(-3px) scale(1.05);
   box-shadow: 0 15px 30px rgba(37, 211, 102, 0.6);
 }
+
